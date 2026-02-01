@@ -120,3 +120,8 @@ Planned enhancements include:
 
 **Independent Project**  
 Developed for the Google Gemini Hackathon.
+
+
+## Hackathon Note
+This repository represents a scalable MVP prototype developed for the Gemini 3 Hackathon, focusing on AI reasoning, multilingual language understanding, and cultural preservation rather than full dataset coverage.
+
